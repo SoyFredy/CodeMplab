@@ -92,7 +92,7 @@ void puertos(void) // se declaran los puertos y salidas
 }   
 
 
-
+//Hola 
 
 void main(void) {
     puertos();
